@@ -44,13 +44,13 @@ This project is an Image Captioning AI system that generates meaningful captions
 
 8. Features
    
-i) Image feature extraction using CNN
+   i) Image feature extraction using CNN
 
-ii) Text processing using NLP
+   ii) Text processing using NLP
 
-iii) Generates captions for input images
+   iii) Generates captions for input images
 
-iv) Simple and efficient pipeline
+   iv) Simple and efficient pipeline
    
 
 
