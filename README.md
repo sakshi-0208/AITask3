@@ -30,11 +30,13 @@ This project is an Image Captioning AI system that generates meaningful captions
    4) Model generates a meaningful caption for the image
 
    
-5. Dataset Used
-Flickr8k Dataset
-Contains images and corresponding text captions
+5. Dataset Used-
+   
+   Flickr8k Dataset
+   (Contains images and corresponding text captions)
+   
 
-6. Features
+7. Features
 1) Image feature extraction using CNN
 
 2) Text processing using NLP
