@@ -3,7 +3,7 @@ Image Captioning AI
 1. Project Description:
 This project is an Image Captioning AI system that generates meaningful captions for input images. It combines Computer Vision and Natural Language Processing (NLP) techniques.
 
-The model uses a pre-trained ResNet50 network to extract important features from images and applies NLP techniques to generate descriptive captions.
+   The model uses a pre-trained ResNet50 network to extract important features from images and         applies NLP techniques to generate descriptive captions.
 
 2. Technologies Used
    1) Python
@@ -44,6 +44,7 @@ Contains images and corresponding text captions
 5. Output Example
 
 Input Image → A dog running on grass
+
 Output Caption → "a dog is running in the grass"
 
 Author:
