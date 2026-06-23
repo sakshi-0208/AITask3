@@ -41,7 +41,7 @@ Contains images and corresponding text captions
 
 4) Simple and efficient pipeline
 
-5. Output Example
+6. Output Example
 
 Input Image → A dog running on grass
 
